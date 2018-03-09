@@ -29,6 +29,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/msan
 
 ### Articles & Tutorials
 
+* [ETL Best Practices with Airflow](https://gtoonstra.github.io/etl-with-airflow/)
 * [Airflow: Tips, Tricks, and Pitfalls – Nuts & Bolts – Medium](https://medium.com/handy-tech/airflow-tips-tricks-and-pitfalls-9ba53fba14eb)
 * [Building WePay's data warehouse using BigQuery and Airflow](https://wecode.wepay.com/posts/wepays-data-warehouse-bigquery-airflow)
 * [Airflow for Google Cloud: Part 1 – Google Cloud Platform - Medium](https://medium.com/google-cloud/airflow-for-google-cloud-part-1-d7da9a048aa4)
