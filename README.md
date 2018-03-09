@@ -7,7 +7,7 @@
 Contributions welcome. Add links through [pull requests](https://github.com/msantino/awesome-airflow/pulls) or create an [issue](https://github.com/msantino/awesome-airflow/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
 ## Documentation
-- [Oficial documentation](https://airflow.apache.org/)
+* [Oficial documentation](https://airflow.apache.org/)
 
 
 ## Contents
@@ -18,7 +18,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/msan
 
 ### Open Source Projects using Apache Airflow
 * [Telemetry Airflow](https://github.com/mozilla/telemetry-airflow)
-* [Etl With Airflow](https://github.com/gtoonstra/etl-with-airflow)
+* [Etl with Airflow](https://github.com/gtoonstra/etl-with-airflow)
 
 ### Set-up Airflow
 
