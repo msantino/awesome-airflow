@@ -1,4 +1,4 @@
-# Awesome Airflow [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Airflow [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://airflow.apache.org/_images/pin_large.png" align="right"  width="100">](https://airflow.apache.org/)
 
@@ -35,3 +35,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/msan
 * [Airflow for Google Cloud: Part 1 – Google Cloud Platform - Medium](https://medium.com/google-cloud/airflow-for-google-cloud-part-1-d7da9a048aa4)
 * [Building a Data Pipeline with Airflow - Mark Litwintschik](http://tech.marksblogg.com/airflow-postgres-redis-forex.html)
 * [Going with the Flow: How Quizlet uses Apache Airflow](https://medium.com/tech-quizlet/going-with-the-flow-how-quizlet-uses-apache-airflow-to-execute-complex-data-processing-pipelines-1ca546f8cc68)
+
+
+### Tools
