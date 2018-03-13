@@ -15,7 +15,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/msan
 - [Open Source Projects](#open-source-projects-using-apache-airflow)
 - [Set-up Airflow](#set-up-airflow)
 - [Articles & Tutorials](#articles--tutorials)
-- [Podcasts](#Podcasts)
+- [Podcasts](#podcasts)
 
 ### Open Source Projects using Apache Airflow
 * [Telemetry Airflow](https://github.com/mozilla/telemetry-airflow)
