@@ -12,9 +12,9 @@ Contributions welcome. Add links through [pull requests](https://github.com/msan
 
 ## Contents
 
-- [Open Source Projects](#Open-source-projects-asing-apache-airflow)
-- [Set-up Airflow](#Set-up-irflow)
-- [Articles & Tutorials](#Articles-&-utorials)
+- [Open Source Projects](#open-source-projects-using-apache-airflow)
+- [Set-up Airflow](#set-up-airflow)
+- [Articles & Tutorials](#articles--tutorials)
 - [Podcasts](#Podcasts)
 
 ### Open Source Projects using Apache Airflow
