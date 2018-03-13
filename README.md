@@ -38,6 +38,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/msan
 * [Going with the Flow: How Quizlet uses Apache Airflow](https://medium.com/tech-quizlet/going-with-the-flow-how-quizlet-uses-apache-airflow-to-execute-complex-data-processing-pipelines-1ca546f8cc68)
 * [Airflow basics tutorial](https://github.com/hgrif/airflow-tutorial)
 * [Get started developing workflows with Apache Airflow](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/)
+* [Installing and configuring Apache Airflow](http://site.clairvoyantsoft.com/installing-and-configuring-apache-airflow/)
 
 ### Podcasts
 
