@@ -39,6 +39,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/msan
 * [Airflow basics tutorial](https://github.com/hgrif/airflow-tutorial)
 * [Get started developing workflows with Apache Airflow](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/)
 * [Installing and configuring Apache Airflow](http://site.clairvoyantsoft.com/installing-and-configuring-apache-airflow/)
+* [Apache Airflow: Tutorial and Beginners Guide](https://www.polidea.com/blog/apache-airflow-tutorial-and-beginners-guide/)
 
 ### Podcasts
 
